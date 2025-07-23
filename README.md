@@ -7,7 +7,7 @@ Welcome to our Crop Advisory & Prediction System! This project leverages machine
 ## 👥 Group Details
 
 - **Group Name:** AgriTech Innovators
-- **Group ID:** ATI-2025
+- **Group ID:** 2ND_TEAM_139
 
 ### 🧑‍🤝‍🧑 Team Members
 
