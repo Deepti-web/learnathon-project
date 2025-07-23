@@ -43,9 +43,11 @@ This system uses a Random Forest Classifier to predict the most suitable crop fo
   1..\myenv\Scripts\activate (to activate the env)
   2.python app.py (in web) or python predict_crop.py (in terminal)
   ```
----
+
 - **testing video link:**
+  ```
   [Visit youtube]([https://www.google.com](https://youtu.be/RRad3L4ZQwI?feature=shared))
+  ```
 
 
 ## 🌱"# learnathon-project" 
