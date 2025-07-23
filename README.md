@@ -27,14 +27,6 @@ This system uses a Random Forest Classifier to predict the most suitable crop fo
 
 ---
 
-## 📦 Requirements
-
-Install all dependencies with:
-```
-pip install -r requirements.txt
-```
-
----
 
 ## 🛠️ Usage
 
