@@ -1,7 +1,7 @@
 # 🌾 Crop Advisory & Prediction System
 
 Welcome to our Crop Advisory & Prediction System! This project leverages machine learning to recommend the best crop based on soil and weather parameters.
-
+![image alt](https://github.com/Deepti-web/learnathon-project/blob/c9ea2b7655d87b94a04547cd262d1f1126746d5a/Screenshot%202025-07-23%20202054.png)
 ---
 
 ## 👥 Group Details
